@@ -1,20 +1,41 @@
 {
     "name": "materialu-vscode",
-    "displayName": "materialu-vscode",
-    "description": "",
-    "version": "0.0.1",
+    "displayName": "MaterialU VSCode Theme",
+    "description": "Description.",
+    "version": "0.00.0",
+    "publisher": "yle7gnbdjg2fqbuk6e3njzsrnqh4vkxigkfvejpdyb42azasryqq",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/avanishsubbiah/materialu-vscode.git"
+    },
+    "bugs": {
+        "url": "https://github.com/avanishsubbiah/materialu-vscode.git",
+        "email": "email@example.com"
+    },
+    "homepage": "link.com",
+    "icon": "icons/theme-icon.png",
+    "galleryBanner": {
+        "color": "#FDFDFE",
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.69.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "keyword 1",
+        "keyword 2",
+        "keyword 3",
+        "keyword 4"
+    ],
     "contributes": {
         "themes": [
             {
-                "label": "materialu-vscode",
+                "label": "MaterialU VSCode Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/materialu-vscode-color-theme.json"
+                "path": "./themes/materialu-vscode"
             }
         ]
     }
