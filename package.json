@@ -2,8 +2,8 @@
     "name": "materialu-vscode",
     "displayName": "MaterialU VSCode Theme",
     "description": "Description.",
-    "version": "0.0.1",
-    "publisher": "yle7gnbdjg2fqbuk6e3njzsrnqh4vkxigkfvejpdyb42azasryqq",
+    "version": "0.0.2",
+    "publisher": "AvanishSubbiah",
     "repository": {
         "type": "git",
         "url": "https://github.com/avanishsubbiah/materialu-vscode.git"
@@ -13,7 +13,7 @@
         "email": "email@example.com"
     },
     "homepage": "link.com",
-    "icon": "icons/theme-icon.png",
+    "icon": "ezgif-frame-001.png",
     "galleryBanner": {
         "color": "#FDFDFE",
         "theme": "dark"
@@ -35,7 +35,7 @@
             {
                 "label": "MaterialU VSCode Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/materialu-vscode"
+                "path": "./themes/materialu-vscode-color-theme.json"
             }
         ]
     }
