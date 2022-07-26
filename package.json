@@ -1,0 +1,21 @@
+{
+    "name": "materialu-vscode",
+    "displayName": "materialu-vscode",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "materialu-vscode",
+                "uiTheme": "vs-dark",
+                "path": "./themes/materialu-vscode-color-theme.json"
+            }
+        ]
+    }
+}
